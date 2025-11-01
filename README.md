@@ -26,6 +26,7 @@
 
 - **Conteúdos da Aula:**
   - [Slide](classes/Module%20I/Slide_Modulo%201.pdf)
+  - [Dataset](classes/Module%20I/global_electricity_production_data.csv)
 </details>
 
 <details>
