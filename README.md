@@ -12,7 +12,7 @@
 > ### Informações:  
 > **Instituição:** Escola Politécnica da UFBA  
 > **Instrutor:** Daniel Maia  
-> **Período:** 01/11/2025 a 29/11/2025  
+> **Período:** 01/11/2025 a 06/12/2025  
 > **Carga Horária:** 20 horas  
 > ### Objetivo:  
 > Capacitar engenheiros a utilizar o Power BI como ferramenta de análise,  
@@ -32,6 +32,10 @@
 <details>
 <summary><Strong>Modulo 2 - Power Query - A Engenharia da Limpeza de Dados (ETL) </Strong></summary>
 
+- **Conteúdos da Aula:**
+  - [Slide](classes/Module%20II/Slide_Modulo%202.pdf)
+  - [Dataset Hands-On](classes/Module%20II/Metro_Transporte.xlsx)
+  - [Dataset Exercicio](classes/Module%20II/Report_Producao.csv)
 </details>
 
 <details>
